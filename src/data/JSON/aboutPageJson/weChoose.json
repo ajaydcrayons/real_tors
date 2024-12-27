@@ -1,0 +1,25 @@
+{
+    "title": "We choose Real State",
+    "heading": "WE ARE MORE THAN DEVELOPERS",
+    "imageSrc": "/images/realstate.jpeg",
+    "imageAlt": "real state",
+   "company": {
+      "title": "OUR Company",
+      "description": "Established in 2014, 360 Realtors, as the name suggests, specializes in providing all-around solutions to meet the various facets of residential & commercial property purchase & investment. In this short period of existence, we have established ourselves as the largest real estate advisory in India through our commitment towards building new benchmarks of excellence in the industry. Driven by our motto of Commitment, Honesty & Reliability, we continuously pursue the goal of identifying the best possible opportunities for our clients and assisting them in making smart & prudent decisions."
+    },
+    "stats": [
+      {"value": "15+", "label": "Products" },
+      {"value": "100+", "label": "Dealers" },
+      {"value": "40+", "label": "Cities" }
+    ],
+    "sections": [
+      {
+        "title": "VISION",
+        "description": "Established in 2014, 360 Realtors, as the name suggests, specializes in providing all-around solutions to meet the various facets of residential & commercial property purchase & investment. In this short period of existence, we have established ourselves as the largest real estate advisory in India through our commitment towards building new benchmarks of excellence in the industry. Driven by our motto of Commitment, Honesty & Reliability, we continuously pursue the goal of identifying the best possible opportunities for our clients and assisting them in making smart & prudent decisions."
+      },
+      {
+        "title": "MISSION",
+        "description": "Established in 2014, 360 Realtors, as the name suggests, specializes in providing all-around solutions to meet the various facets of residential & commercial property purchase & investment. In this short period of existence, we have established ourselves as the largest real estate advisory in India through our commitment towards building new benchmarks of excellence in the industry. Driven by our motto of Commitment, Honesty & Reliability, we continuously pursue the goal of identifying the best possible opportunities for our clients and assisting them in making smart & prudent decisions."
+      }
+    ]
+  }

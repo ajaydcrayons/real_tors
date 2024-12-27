@@ -1,0 +1,103 @@
+{
+  "heading": "Trending Projects",
+  "subHeading": "The Noteworthy Real Estate in India",
+  "childData": [
+    {
+      "title": "Gokul Dham",
+      "min_price": "15 Lac",
+      "max_price":"50 Lac",
+      "address":"Rohini Sector 25, New Delhi",
+      "flat":"2 | 3 BHK",
+      "area":" 700 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/1.jpg"
+
+    },
+    {
+      "title": "Shiv Dham",
+      "min_price": "13 Lac",
+      "max_price":"25 Lac",
+      "address":"Rohini Sector 15, New Delhi",
+      "flat":"3 | 4 BHK",
+      "area":" 1200 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/2.jpg"
+    },
+    {
+     "title": "Geeta Niwas",
+      "min_price": "18 Lac",
+      "max_price":"50 Lac",
+      "address":"Pitampura, New Delhi",
+      "flat":"3 | 4 BHK",
+      "area":" 1000 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/3.jpg"
+    },
+    {
+      "title": "Mahal",
+      "min_price": "45 Lac",
+      "max_price":"90 Lac",
+      "address":"Kohat Enclave, New Delhi",
+      "flat":"45 | 5 BHK",
+      "area":" 1500 SQ.YD",
+      "by":"JD BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/4.jpg"
+    },
+    {
+     "title": "Shiv Dham",
+      "min_price": "15 Lac",
+      "max_price":"50 Lac",
+      "address":"Rohini Sector 25, New Delhi",
+      "flat":"2 | 3 BHK",
+      "area":" 800 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/5.jpg"
+    },
+    {
+      "title": "Gomti Niwas",
+      "min_price": "1 CR",
+      "max_price":"3 CR",
+      "address":"Pitampura, New Delhi",
+      "flat":"4 | 5 BHK",
+      "area":" 1800 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/6.jpg"
+    },
+    {
+      "title": "Sweet Home",
+      "min_price": "15 Lac",
+      "max_price":"50 Lac",
+      "address":"Rohini Sector 18, New Delhi",
+      "flat":"2 | 3 BHK",
+      "area":" 700 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/7.jpg"
+    },
+    {
+      "title": "Riwa Palace",
+      "min_price": "70 Lac",
+      "max_price":"3 CR",
+      "address":"Rohini Sector 18, New Delhi",
+      "flat":"3 | 4 BHK",
+      "area":" 700 SQ.YD",
+      "by":"KK BUILDER",
+      "subtitle":"RERA",
+      "btnContent":"Contact",
+      "img": "/images/8.jpg"
+    }
+  ]
+}

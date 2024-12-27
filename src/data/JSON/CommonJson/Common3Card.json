@@ -1,0 +1,10 @@
+{
+    "heading":"Blogs",
+    "subHeading":"Find your home in the city of your choice",
+    "childData":[ 
+        {"title":"614 Options","des":" Precast concrete is a construction product produced by casting concrete in a reusable mold or form which ...","img":"/images/1.jpg","city":"Pune"},
+        {"title":"1187 Options ","des":" Precast concrete is a construction product produced by casting concrete in a reusable mold or form which ...","img":"/images/2.jpg","city":"Noida"},
+        {"title":"579 Options","des":" Precast concrete is a construction product produced by casting concrete in a reusable mold or form which ...","img":"/images/3.jpg","city":"Delhi"}
+    ]
+}
+ 

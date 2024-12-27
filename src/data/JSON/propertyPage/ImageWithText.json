@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "Home Selection",
+      "description":
+        "Choose from a diverse portfolio of residential and commercial properties tailored to your preferences.",
+     "imageUrl": "/images/Untitleddesign1.jpg",
+      "altText": "Home Selection"
+    },
+    {
+      "id": 2,
+      "title": "Property Insights",
+      "description":
+        "Get detailed analysis and insights to make informed decisions about your real estate investments.",
+      "imageUrl": "/images/Untitleddesign2.jpg",
+      "altText": "Property Insights"
+    },
+    {
+      "id": 3,
+      "title": "Customized Services",
+      "description":
+        "Benefit from personalized services that cater to your specific needs and preferences in real estate.",
+      "imageUrl": "/images/Untitleddesign3.jpg",
+      "altText": "Customized Services"
+    }
+  ]
+  

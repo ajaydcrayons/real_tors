@@ -1,0 +1,45 @@
+
+{
+    "heading":"Why buy with us ?",
+    
+    "subHeading":" Aspects that make 360 Realtors Indias leading Real Estate Advisory.",
+   "childData":[
+    {
+      "title": "Real Estate Consulting",
+      "description":
+        "Dive into bi-weekly sprints and rollouts aligned with project timelines.",
+      "classname":"card"
+    },
+    {
+      "title": "Home Loan Consultation",
+      "description":
+        "We outline detailed workflows and create UI/UX designs for optimal functionality.",
+        "classname":"card"
+  
+    },
+    {
+      "title": "Development",
+      "description":
+      "Start coding with best practices, ensuring scalability and clean architecture.",
+      "classname":"card"
+    },
+    {
+      "title": "Testing & QA",
+      "description":
+        "Extensive testing to make sure the software is stable and performs as expected.",
+        "classname":"card"
+    },
+    {
+      "title": "Deployment",
+      "description":
+        "Roll out the software, followed by post-deployment checks and monitoring.",
+        "classname":"card"
+    },
+    {
+      "title": "Maintenance",
+      "description":
+        "Ongoing support, bug fixes, and updates to ensure the software's long-term success.",
+        "classname":""
+    }
+   ]
+}    

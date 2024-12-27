@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "src": "https://logos-world.net/wp-content/uploads/2023/02/Shein-Logo.jpg",
+      "alt": "Brand 1",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjt6JpxInMeAPuF6u9LJ84-5Jd0bZ2osjt_A&s",
+      "alt": "Brand 2",
+      "url": "/"
+    },
+    {
+      "id": 3,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3bfkxwgwf7RF1hBWQU5xqwJza2GOj_dYWkg&s",
+      "alt": "Brand 3",
+      "url": "/"
+    },
+    {
+      "id": 4,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Haier_logo.svg/800px-Haier_logo.svg.png",
+      "alt": "Brand 4",
+      "url": "/"
+    },
+    {
+      "id": 5,
+      "src": "https://seeklogo.com/images/J/joyoung-logo-FADC61A4D8-seeklogo.com.png",
+      "alt": "Brand 5",
+      "url": "/"
+    },
+    {
+      "id": 6,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHoK5Qkzb3kYfpyZwn1SPprissa8Iq3Vbwg&s",
+      "alt": "Brand 6",
+      "url": "/"
+    },
+    {
+      "id": 7,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anta_logo.svg/1280px-Anta_logo.svg.png",
+      "alt": "Brand 7",
+      "url": "/"
+    },
+    
+    {
+      "id": 8,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5kDEq-yROPJFNOQtj_XjDQJjpKgGFJ9Z-Q&s",
+      "alt": "Brand 8",
+      "url": "/"
+    },
+    
+    {
+      "id": 9,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp_shJ3bGoR4EYYUjJxQ89HEmzYug-Rq6aLw&s",
+      "alt": "Brand 9",
+      "url": "/"
+    },
+    {
+      "id": 10,
+      "src": "https://logos-world.net/wp-content/uploads/2022/07/Lenovo-Symbol.png",
+      "alt": "Brand 10",
+      "url": "/"
+    },
+    
+    {
+      "id": 11,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMgGHJbr1lBV6qwJwOnGivLYbcxYdgOp7v2Q&s",
+      "alt": "Brand 11",
+      "url": "/"
+    },
+    
+    {
+      "id": 12,
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUKapFvpJaPiz_Wm2jj4ip2xAVIZ_WG0o3ug&s",
+      "alt": "Brand 12",
+      "url": "/"
+    }
+    
+    
+  ]

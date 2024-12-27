@@ -1,0 +1,28 @@
+{
+    "propertySection": {
+      "heading": "Your digital presence is about to take off",
+      "subheading": "Explore Luxurious Homes Across India",
+      "description": "Welcome to our real estate platform, your gateway to discovering the most prestigious properties in India's bustling metro cities. Whether you're eyeing a home in Mumbai, Bengaluru, or Chennai, our blog provides the insights, advice, and listings you need to find your dream residence. Embark on your journey through India's vibrant urban landscapes and secure a home that perfectly aligns with your aspirations.",
+      "buttons": {
+        "contact": {
+          "label": "Contact Us",
+          "link": "/contact"
+        },
+        "search": {
+          "label": "Search Listings",
+          "scrollTargetId": "best-listing"
+        }
+      },
+      "images": [
+        {
+          "src": "/images/property-1.webp",
+          "alt": "House 1"
+        },
+        {
+          "src": "/images/property-3.webp",
+          "alt": "House 3"
+        }
+      ]
+    }
+  }
+  

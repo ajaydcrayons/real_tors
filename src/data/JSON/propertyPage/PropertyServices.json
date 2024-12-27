@@ -1,0 +1,40 @@
+{
+    "services": [
+      {
+        "title": "Awesome Apartment",
+        "image": "/images/3.jpg"
+      },
+      {
+        "title": "Modern Home For Sale",
+        "image": "/images/4.jpg"
+      },
+      {
+        "title": "Apartment Space For Rent",
+        "image": "/images/3.jpg"
+      },
+      {
+        "title": "Villa With Panoramic View",
+        "image": "/images/6.jpg"
+      },
+      {
+        "title": "Spacious Home For Sale",
+        "image": "/images/7.jpg"
+      },
+      {
+        "title": "Townhouse For Sale",
+        "image": "/images/1.jpg"
+      }
+    ],
+    "categories": [
+      "Awesome Apartment",
+      "Modern Home For Sale",
+      "Apartment Space For Rent",
+      "Villa With Panoramic View",
+      "Spacious Home For Sale",
+      "Townhouse For Sale"
+    ],
+    "heading":"Best Listings Available",
+    "sideBarHeading":" Categories",
+    "btnContent":" Download Brochure"
+  }
+  
